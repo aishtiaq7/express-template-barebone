@@ -1,4 +1,4 @@
-# Todo App with PG
+# Get Started
 
 To get started run: 
 ```
